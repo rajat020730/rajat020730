@@ -9,3 +9,6 @@
 ### 📫 Email me at Rajat020730@gmail.com
 
 ### ⚡ Fun fact:You can easily pull an All-Nighter if you sleep throughout the day.
+### Connect with me on:
+
+[<img align="left" alt="https://www.linkedin.com/in/rajat-agarwal-b110931a7/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rajat-agarwal-b110931a7/)
