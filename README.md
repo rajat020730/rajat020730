@@ -1,4 +1,6 @@
-### Hi there, I'm Rajat 👋
+<img align="left" src="https://github.com/rajat020730/rajat020730/blob/main/HEY2.svg" />
+
+### I'm Rajat 👋
 
 
 ## I'm a Coding and ethical hacking enthusiast!
