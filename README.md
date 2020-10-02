@@ -9,4 +9,4 @@
 ### 📫 Email me at Rajat020730@gmail.com
 
 ### ⚡ Fun fact:You can easily pull an All-Nighter if you sleep throughout the day.
-
+### {{ LANGUAGE_COLOR:uri }}
