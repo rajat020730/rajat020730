@@ -36,4 +36,4 @@
 
   <img align="left" alt="Rajat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rajat020730&show_icons=true&hide_border=true" />
 
-![](https://komarev.com/ghpvc/?username=rajat020730&label=PROFILE+VIEWS&style=plastic)
+
