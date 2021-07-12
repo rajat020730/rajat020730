@@ -32,8 +32,5 @@
 <br>
 <br>
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Rajat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rajat020730&show_icons=true&hide_border=true" />
 
 
