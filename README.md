@@ -7,7 +7,7 @@
 
 - 🔭 I love Competitive Programming, Development and Ethical Hacking.
 - 🌱 I’m currently learning a million things together
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and not procrastinate 
 - ⚡ Fun fact: You can easily pull a All nighter if you sleep whole day
 
 ### Connect with me:
